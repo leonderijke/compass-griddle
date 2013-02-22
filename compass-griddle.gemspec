@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "0.2.0"
-  s.date = "2013-02-14"
+  s.version = "0.2.1"
+  s.date = "2013-02-19"
 
   # Gem Details
   s.name = "compass-griddle"
